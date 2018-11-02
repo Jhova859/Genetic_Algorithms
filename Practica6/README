@@ -1,0 +1,4 @@
+compilar
+
+	gcc cruza.c individuo.c main.c -o cruza -lm
+
